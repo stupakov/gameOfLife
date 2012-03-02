@@ -1,0 +1,10 @@
+Four implementations of Conway's Game of Life (http://coderetreat.com/gol.html)
+
+These are the four programs I co-wrote with 4 people (sorry, I don't remember everyone's names)
+for the December 3, 2011 SF Code Retreat (http://coderetreat.com/)
+Each attempt was limited to 45 minutes.
+
+1) First attempt, no tests, grid-based, starting to figure out how to count neighbors.
+2) Test-driven. Got setup and neighbor counting working.
+3) Different approach - using a set of coordinates of active cells instead of a grid.
+4) Pulled together everything we had learned so far. Fewer tests this time, with focus on getting a working solution. Success!
